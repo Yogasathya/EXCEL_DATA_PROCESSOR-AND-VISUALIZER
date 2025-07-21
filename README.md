@@ -71,7 +71,7 @@ DB_CONFIG = {
 python app.py
 ```
 
-Open your browser and go to: [http://localhost:5000](http://localhost:5000)
+Open your browser and go to: [http://localhost:5000](http://127.0.0.1:5000/)
 
 ---
 
